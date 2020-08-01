@@ -1,0 +1,103 @@
+﻿polymer,Abb,Sol,Tm,ST,MV,density,Ecoh,Tg,HC,EMW
+Polyacetal,POM,21.1,433,44.135,24.5,1.23,10900,211,61,2550
+Poly(acrylic acid),PAA,21.3,394,32.66,51.1,1.41,22700,374,90,6900
+Poly(acrylonitrile),PAN,26.2,568,49,44.8,1.18,30700,383,69,7900
+Poly(bisphenol A carbonate),PC,20.4,528,49.15,210.2,1.21,87700,430,305,2500
+Poly(bisphenol A isophthalate),,20.5,544,39.3,296.2,1.21,124000,453,407,2450
+Poly(Bisphenol A terephthalate),,20.5,604,39.3,296.2,1.21,124100,462,407,1600
+"Poly(1,4-butadiene)(trans)",PBD,17,345,31,59.7,0.95,17300,171,101,2600
+Poly(butyl acrylate),,18.5,358,27.225,118.7,1.08,40400,220,231,18000
+Poly(butylene),PB-1,16,435,25.32,65.2,0.859,16800,245,118,12300
+Poly(butylene terephthalate),PBT,22.4,429,39.2,175.5,1.26,76400,313,268,1600
+Poly(butyl methacrylate),,17.9,385,29,135,1.05,43100,294,237,12200
+Nylon 6 - Poly(caprolactam),PA6,25.5,518,42,104.4,1.08,67600,324,166,2500
+Poly(caprolactone),PCL,19.2,318,44.9,102.3,1.12,37350,207,207,2400
+Polychloroprene,,18.1,430,38.95,71.3,1.24,23300,237,135,9700
+Poly(cyclohexyl methacrylate),,18.5,468,35.6,153,1.1,51900,370,229,34500
+Poly(dimethylsiloxane),PDMS,15.3,281,19.9,76.5,0.965,17600,149,116.3,9325
+Nylon 12 - Poly(ω-dodecanamide),PA12,21.1,460,34.6,197.3,1,90200,313,319,1950
+Poly(ether ether ketone),PEEK,21.9,581,37,228.1,1.26,109400,421,320,1350
+Poly(ether ketone ketone),PEKK,23.1,620,36.2,236,1.28,127500,437,300,1700
+Poly(ethersulfone),PES,23,591,40.33,169.3,1.37,89800,489,233,3850
+Poly(ethyl acrylate),,19.1,375,27.7,89.4,1.12,32800,250,180,8200
+Polyethylene,PE,16.7,321,31.6,32.9,0.85,9200,239,63,1150
+Poly(ethylene glycol),,20.4,244,40,39,1.13,16200,225,91,2000
+Poly(ethylene terephthalate),PET,21.2,452,43,144,1.34,64800,344,219,1700
+Nylon 6-6 - Poly(hexamethylene adipamide),PA 66,26,506,42,209.9,1.08,143100,324,328,2000
+Poly(isobutene),PIB,15.8,427,28.4,63.8,0.88,16300,202,110,7950
+Polyisoprene(cis),IR,16.5,370,27.75,75.1,0.91,20600,204,130,4800
+Polylactic acid,PLA,20.2,409,42,57.2,1.26,23300,332,99,8700
+Poly(methyl acrylate),PMA,20,383,40.6,70.4,1.22,28200,280,114,10000
+Poly(methyl methacrylate),PMMA,19,456,41.2,87.1,1.15,31300,378,136.5,11800
+Poly(α-methylstyrene),PAMS,18.4,421,29.43,110.4,1.07,37200,445,150,16000
+Poly(phenylsulfone),PPSU,22.7,370,50.65,310.4,1.29,161500,482,410,1600
+Poly(propylene),PP,16.2,452,30.4,48.8,0.86,12800,264,89.5,4650
+Poly(propylene glycol),PPG,17.3,341,31.2,57.9,1,17200,205,111.5,2800
+Polystyrene,PS,18.3,510,27.65,99.2,1.05,33300,373,126,16500
+Poly(tetrahydrofuran),PTMO,17.5,284,29.6,73.7,0.98,22600,189,148,2000
+Poly(trimethylene terephthalate),PTT,21.4,425,36.19,153.9,1.34,72100,327,236.1,1650
+Poly(vinyl acetate),PVA,19.6,415,30.7,72.3,1.19,27600,307,109,10300
+Poly(vinyl chloride),PVC,19.6,423,47,45.2,1.38,17300,350,62,5400
+Poly(acrylamide),,25.9,347,37.5,54.6,1.3,39800,438,96,14000
+Poly(N-isopropyl acrylamide),PNIPA,23.1,420,50.1,107.8,1.05,57300,403,168,23000
+Poly(N-tert-butyl acrylamide),,23,462,47.2,123,1.03,65200,401,190,28200
+Poly(N-phenylacrylamide),,24.9,389,53.9,128.5,1.15,79800,498,177,47000
+Poly(N-sec-butylacrylamide),,22.6,438,47.2,123.7,1.03,63200,393,194,28500
+Poly(benzyl acrylate),,19.5,414,39.7,140.9,1.15,51700,282,201,36000
+Poly(2-cyanoethyl acrylate),,28.4,457,37.9,89.2,1.4,80100,277,220,30000
+"Nylon 10,10 - Poly(decamethylene sebacamide)",PA10-10,21.9,480,32,329,1.03,163500,323,539,1900
+Poly(isopropylethylene),,17.8,499,32.2,78.1,0.9,24600,323,120,6200
+Poly(hexylethylene),,16.4,348,32.2,130,0.86,35000,218,240,13900
+Poly(tert-butylethylene),,15.4,487,32.2,97.9,0.86,23100,337,142,8100
+Poly(epichlorohydrin),,19.7,401,40.9,68.9,1.34,26800,253,150,6300
+Poly(hexamethylene glycol),,17.8,316,32.1,104.4,0.96,33100,204,216,1800
+Poly(butylene adipate),,19.7,305,34.6,179,1.12,66100,202,378,2050
+"Poly(1,4-butylene succinate)",,20.9,309,37.6,136.7,1.26,57300,237,317,2200
+Poly(cyclohexanedimethylene terephthalate),,20.2,463,34.367,229.5,1.2,92200,364,339,3200
+Poly(ether ketone),,23,548,41.3,155.2,1.43,81700,431,202,1750
+Poly(ethyleneketone),,24.5,495,42.9,45.2,1.24,27600,291,76,4700
+Poly(1-pentenylene),,16.8,336,34.1,76,0.9,21300,178,132,1400
+poly(p-phenylene sulfide),,21.1,510,57.4,80.1,1.33,38000,363,110,3200
+ poly(ethylene succinate),,21.4,297,39.2,106,1.36,48700,267,256,2430
+poly(tetramethylene sebacate),,18.9,221,39,225.7,1.14,83900,214,500.7,1900
+Poly(trimethylene terephthalate),,21.4,425,36.19,153.9,1.34,72100,327,236.1,1650
+poly(3-hydroxybutyric acid),,19.2,347,33,70.7,1.22,26800,276,118,2900
+Nylon 8 - Polycapryllactam,,24.5,493,45.2,135.9,1.04,82700,324,224,2300
+Poly(methyl isopropenyl ketone),,20.2,493,44.5,74.1,1.14,31800,370,120,8600
+Poly(vinyl phenyl ketone),,22,423,40.6,111,1.19,54400,323,154,26200
+Poly(vinyl fluoride),PVF,15.7,440,38.4,34.4,1.34,8500,279,59.5,1650
+Poly(4-hydroxystyrene),,23.6,461,37.6,103.6,1.16,57400,397,140,28000
+Poly(butyl vinyl ether),,18.2,350,35.3,109,0.92,36100,220,211,12500
+Poly(ethyl vinyl ether),,18.1,381,36.9,74.1,0.97,24300,234,151,7050
+Poly(vinyl isobutyl ether),,17.9,442,35.4,109.4,0.92,35100,255,209,12300
+Poly(isopropyl vinyl ether),,17.9,437,36,93.2,0.92,29900,270,178,9100
+Poly(methyl vinyl ether),PVME,18.3,399,30.667,55.6,1.05,18600,245,113,5800
+Poly(propyl vinyl ether),,18.1,367,36,87.8,0.94,28600,224,181,9300
+Poly(vinyl benzoate),,20.8,422,40.8,124,1.2,51600,344,164.2,6300
+Poly(vinyl butyrate),PVB,18.6,396,35.8,104.5,1.09,35900,271,216,13800
+Poly(vinyl formate),,18.3,357,41.7,55.5,1.3,18000,307,85,4450
+"Poly(1,4-phenylene sulfide)",PPS,21.1,510,57.4,80.1,1.33,38000,363,110,3200
+Poly(ethylene sulfide),TR,18.9,428,40.5,46.4,1.3,16700,223,107,3750
+Poly(propylene sulfide),,17.9,369,38.4,68.2,1.08,21900,228,134,4000
+Poly(2-methoxystyrene),,19.4,483,38.6,122.4,1.1,46200,348,169,27000
+Poly(2-methylstyrene),PMS,18.8,500,35.9,114.9,1.03,40700,409,154,19000
+Poly(3-methylstyrene),,18.8,480,35.9,115,1.03,40800,370,154,19000
+Poly(4-methylstyrene),PPMS,18.8,526,35.9,115.1,1.03,40800,380,150,25000
+Poly(4-tert-butylstyrene),,16.6,479,34.8,168.7,0.95,46500,402,224,22000
+Poly(ethylene sebacate),,19.2,311,35.9,209,1.09,75000,244,449,1960
+"Poly(1,6-hexylene sebacate)",,18.6,334,41.5,276.1,1.03,92900,213,562,1800
+Poly(ethylene isophthalate),,23.3,407,40.6,144,1.335,77800,324,223,4950
+Poly(ethylene adipate),,19.8,265,37.6,141,1.22,57300,230,317,2200
+Poly(cyclohexylenedimethylene terephthalate),PCT,20.2,463,38.1,229.5,1.2,92200,364,339,3200
+Poly(tetramethylene isophthalate),,21,376,39.1,174,1.27,76400,297,274,3000
+Poly(dimethyl fumarate),,19.9,356,33.9,115.5,1.25,45600,373,185,16500
+Poly(dibutyl fumarate),,19.6,227,37.5,145.5,1.18,48300,284,238,25000
+Poly(dipropyl fumarate),,19.7,291,36.5,165.7,1.21,67000,259,369.8,35800
+Poly(4-bromostyrene),,19.7,508,40.1,119,0.87,46000,411,140,30000
+Poly(2-chlorostyrene),,19,541,38.4,114,1.22,41200,395,147,32000
+Poly(3-chlorostyrene),,19.3,520,38.4,114,1.22,42300,363,147,32000
+"Poly(2,5-difluorostyrene)",,17.7,575,34.3,106,0.96,33100,374,137,16000
+Poly(4-fluorostyrene),,18.8,536,36.5,102,1.2,36000,376,117,18000
+Poly(methyl cyanoacrylate),CA,29.2,492,39.1,83.6,1.33,70000,436,137,24100
+Poly(ethyl cyanoacrylate),,23.5,509,38,98.6,1.27,54000,422,163,29500
+Poly(butyl cyanoacrylate),,22,441,36.5,130.9,1.17,62000,374,216,42000
