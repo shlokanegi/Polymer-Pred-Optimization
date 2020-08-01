@@ -1,4 +1,4 @@
-# Project Topic
+# Project Overview
 ## Optimization for Polymer Predictors for Drug Delivery Systems, using Machine Learning Approaches
 
 ### MOTIVATION
