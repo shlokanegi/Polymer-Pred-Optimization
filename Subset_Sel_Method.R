@@ -416,4 +416,84 @@ MSE_store [9,8] = MSE
 plot(MSE_store[9,], type = 'l', lwd=2, xlab = "Number of predictors", ylab = "Test MSE")
 View(MSE_store)
 
+################## 
+# At every run, the rule for choosing the best subset is as follows :-
+# 1) From the MSE_store / MSE plot, note the number for predictor(s) corresponding to the MINIMA. Let it be 'x'
+# 2) To this minimum MSE, add 0.05. This is the acceptable upper limit of the test_MSE.
+# 3) From 'x', move to predictors lesser than 'x' and see if they have a lower MSE than our acceptable upper limit of the test_MSE.
+# 4) Keep moving towards lower set, until we don't cross our acceptable upper limit of the test_MSE.
+# 5) We now get our final subset and corresponding final MSE. 
+# 6) If the final MSE > 0.6, then reject that subset.
+# 7) If the final MSE <= 0.6, then accept that subset.
+
+# This entire piece of code is run 10 times. 
+# Finally for every variable as response, choose the subset which occurs the most number of times in the 10 runs.
+
+
+#########
+
+### Fitting the subset model, and building the coefficients plot.
+
+### For Sol
+lm.fit = lm(Sol~MV+Ecoh+Tg+HC, data = dat, subset = train)
+summary(lm.fit)
+coeffs = lm.fit$coefficients
+coeffsord = sort(abs(coeffs), decreasing = TRUE)
+orders = order(coeffs, decreasing = TRUE)
+barplot(coeffs, main = "Subset Regression Coefficients", 
+        ylab = "Coefficients", col = orders, legend.text = coeffs,
+        space = NULL, xlim = c(0,12))
+
+#### For Tm
+lm.fit = lm(Tm~MV+Tg+HC, data = dat, subset = train)
+summary(lm.fit)
+coeffs = lm.fit$coefficients
+coeffsord = sort(abs(coeffs), decreasing = TRUE)
+orders = order(coeffs, decreasing = TRUE)
+barplot(coeffs, main = "Subset Regression Coefficients", 
+        ylab = "Coefficients", col = orders, legend.text = coeffs,
+        space = NULL, xlim = c(0,12))
+
+#### For MV
+lm.fit = lm(MV~Sol+Ecoh, data = dat, subset = train)
+summary(lm.fit)
+coeffs = lm.fit$coefficients
+coeffsord = sort(abs(coeffs), decreasing = TRUE)
+orders = order(coeffs, decreasing = TRUE)
+barplot(coeffs, main = "Subset Regression Coefficients", 
+        ylab = "Coefficients", col = orders, legend.text = coeffs,
+        space = NULL, xlim = c(0,12))
+
+#### For Ecoh
+lm.fit = lm(Ecoh~Sol+MV, data = dat, subset = train)
+summary(lm.fit)
+coeffs = lm.fit$coefficients
+coeffsord = sort(abs(coeffs), decreasing = TRUE)
+orders = order(coeffs, decreasing = TRUE)
+barplot(coeffs, main = "Subset Regression Coefficients", 
+        ylab = "Coefficients", col = orders, legend.text = coeffs,
+        space = NULL, xlim = c(0,12))
+
+
+##### For Tg
+lm.fit = lm(Tg~Sol+MV+HC, data = dat, subset = train)
+summary(lm.fit)
+coeffs = lm.fit$coefficients
+coeffsord = sort(abs(coeffs), decreasing = TRUE)
+orders = order(coeffs, decreasing = TRUE)
+barplot(coeffs, main = "Subset Regression Coefficients", 
+        ylab = "Coefficients", col = orders, legend.text = coeffs,
+        space = NULL, xlim = c(0,12))
+
+
+#### For HC
+lm.fit2 = lm(HC~MV+Tg, data = dat, subset = train)
+summary(lm.fit)
+coeffs = lm.fit$coefficients
+coeffsord = sort(abs(coeffs), decreasing = TRUE)
+orders = order(coeffs, decreasing = TRUE)
+barplot(coeffs, main = "Subset Regression Coefficients", 
+        ylab = "Coefficients", col = orders, legend.text = coeffs,
+        space = NULL, xlim = c(0,12))
+
 
