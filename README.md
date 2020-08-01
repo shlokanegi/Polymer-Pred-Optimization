@@ -8,6 +8,8 @@ Machine Learning approaches to develop correlations between the predictors, whic
 time saving. Finally, we were able to propose a set of protocols, which could be followed for choosing the best polymer 
 for a particular drug.
 
+<img width="1438" alt="Screen Shot 2020-08-02 at 12 23 50 AM" src="https://user-images.githubusercontent.com/66521525/89108646-abee8400-d457-11ea-8da0-682e8a407b8c.png">
+
 This repository consists of the proposed code to be followed to clean the raw dataset and subsequently shorlisting the best 
 subset of polymers for drug, NIFEDIPINE.
 
